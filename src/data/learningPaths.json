@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "companyId": 1,
+    "title": "Frontend Developer Path",
+    "description": "From HTML to advanced React, with an assessment and certificate.",
+    "status": "published",
+    "difficulty": "intermediate",
+    "estimatedHours": 46,
+    "skill": "Frontend",
+    "courseIds": [6, 3, 1, 2],
+    "assessmentId": 2,
+    "certificateTemplateId": 1,
+    "assignedUserIds": [6, 7, 9]
+  },
+  {
+    "id": 2,
+    "companyId": 1,
+    "title": "People Manager Path",
+    "description": "Leadership essentials for new managers.",
+    "status": "draft",
+    "difficulty": "beginner",
+    "estimatedHours": 6,
+    "skill": "Leadership",
+    "courseIds": [4],
+    "assessmentId": null,
+    "certificateTemplateId": 2,
+    "assignedUserIds": [5]
+  },
+  {
+    "id": 3,
+    "companyId": 2,
+    "title": "Learning Designer Path",
+    "description": "Studio track for Northwind designers.",
+    "status": "published",
+    "difficulty": "intermediate",
+    "estimatedHours": 8,
+    "skill": "L&D",
+    "courseIds": [5],
+    "assessmentId": 3,
+    "certificateTemplateId": 3,
+    "assignedUserIds": [10]
+  }
+]

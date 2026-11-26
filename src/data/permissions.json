@@ -1,0 +1,99 @@
+{
+  "modules": [
+    {
+      "id": "dashboard",
+      "name": "Dashboard",
+      "actions": ["view"]
+    },
+    {
+      "id": "companies",
+      "name": "Companies",
+      "actions": ["view", "create", "edit", "delete", "manage"]
+    },
+    {
+      "id": "users",
+      "name": "Users",
+      "actions": ["view", "create", "edit", "delete", "export", "import", "assign", "invite"]
+    },
+    {
+      "id": "roles",
+      "name": "Roles",
+      "actions": ["view", "create", "edit", "delete", "assign", "manage"]
+    },
+    {
+      "id": "departments",
+      "name": "Departments",
+      "actions": ["view", "create", "edit", "delete", "assign", "manage"]
+    },
+    {
+      "id": "teams",
+      "name": "Teams",
+      "actions": ["view", "create", "edit", "delete", "assign", "manage"]
+    },
+    {
+      "id": "courses",
+      "name": "Courses",
+      "actions": ["view", "create", "edit", "delete", "publish", "assign", "export"]
+    },
+    {
+      "id": "learn",
+      "name": "My Learning",
+      "actions": ["view"]
+    },
+    {
+      "id": "learningPaths",
+      "name": "Learning Paths",
+      "actions": ["view", "create", "edit", "delete", "publish", "assign"]
+    },
+    {
+      "id": "assessments",
+      "name": "Assessments",
+      "actions": ["view", "create", "edit", "delete", "publish", "approve"]
+    },
+    {
+      "id": "certificates",
+      "name": "Certificates",
+      "actions": ["view", "create", "edit", "delete", "manage", "export"]
+    },
+    {
+      "id": "content",
+      "name": "Content Library",
+      "actions": ["view", "create", "edit", "delete", "manage"]
+    },
+    {
+      "id": "calendar",
+      "name": "Calendar",
+      "actions": ["view", "create", "edit", "delete"]
+    },
+    {
+      "id": "reports",
+      "name": "Reports",
+      "actions": ["view", "export"]
+    },
+    {
+      "id": "announcements",
+      "name": "Announcements",
+      "actions": ["view", "create", "edit", "delete"]
+    },
+    {
+      "id": "discussions",
+      "name": "Discussions",
+      "actions": ["view", "create", "edit", "delete"]
+    },
+    {
+      "id": "gamification",
+      "name": "Gamification",
+      "actions": ["view", "manage"]
+    },
+    {
+      "id": "notifications",
+      "name": "Notifications",
+      "actions": ["view", "manage"]
+    },
+    {
+      "id": "settings",
+      "name": "Settings",
+      "actions": ["view", "manage"]
+    }
+  ]
+}

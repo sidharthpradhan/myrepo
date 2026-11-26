@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "companyId": 1,
+    "templateName": "Acme Completion",
+    "userId": 6,
+    "courseId": 3,
+    "pathId": null,
+    "certificateNumber": "ACME-2026-1001",
+    "issuedAt": "2026-06-12",
+    "expiresAt": null,
+    "status": "issued"
+  },
+  {
+    "id": 2,
+    "companyId": 1,
+    "templateName": "Acme Completion",
+    "userId": 6,
+    "courseId": 1,
+    "pathId": 1,
+    "certificateNumber": "ACME-2026-1044",
+    "issuedAt": "2026-08-01",
+    "expiresAt": "2028-08-01",
+    "status": "issued"
+  },
+  {
+    "id": 3,
+    "companyId": 2,
+    "templateName": "Northwind Studio",
+    "userId": 10,
+    "courseId": 5,
+    "pathId": 3,
+    "certificateNumber": "NWA-2026-0091",
+    "issuedAt": "2026-07-19",
+    "expiresAt": null,
+    "status": "issued"
+  }
+]

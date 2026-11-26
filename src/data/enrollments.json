@@ -1,0 +1,9 @@
+[
+  { "id": 1, "userId": 6, "courseId": 3, "progress": 100, "status": "completed", "lastLessonId": "l2", "updatedAt": "2026-06-12" },
+  { "id": 2, "userId": 6, "courseId": 1, "progress": 72, "status": "in-progress", "lastLessonId": "l3", "updatedAt": "2026-09-17" },
+  { "id": 3, "userId": 6, "courseId": 2, "progress": 40, "status": "in-progress", "lastLessonId": "l1", "updatedAt": "2026-09-16" },
+  { "id": 4, "userId": 7, "courseId": 1, "progress": 18, "status": "in-progress", "lastLessonId": "l1", "updatedAt": "2026-09-10" },
+  { "id": 5, "userId": 5, "courseId": 4, "progress": 0, "status": "not-started", "lastLessonId": null, "updatedAt": "2026-09-01" },
+  { "id": 6, "userId": 10, "courseId": 5, "progress": 100, "status": "completed", "lastLessonId": "l1", "updatedAt": "2026-07-19" },
+  { "id": 7, "userId": 4, "courseId": 1, "progress": 100, "status": "completed", "lastLessonId": "l5", "updatedAt": "2026-02-02" }
+]

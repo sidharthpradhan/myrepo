@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "companyId": 1,
+    "departmentId": 1,
+    "name": "Frontend Guild",
+    "leaderId": 6,
+    "status": "active",
+    "memberIds": [2, 5, 6]
+  },
+  {
+    "id": 2,
+    "companyId": 1,
+    "departmentId": 2,
+    "name": "Instruction Team",
+    "leaderId": 4,
+    "status": "active",
+    "memberIds": [4, 9]
+  },
+  {
+    "id": 3,
+    "companyId": 1,
+    "departmentId": 3,
+    "name": "People Ops",
+    "leaderId": 8,
+    "status": "active",
+    "memberIds": [7, 8]
+  },
+  {
+    "id": 4,
+    "companyId": 2,
+    "departmentId": 5,
+    "name": "Studio",
+    "leaderId": 10,
+    "status": "active",
+    "memberIds": [3, 10]
+  }
+]

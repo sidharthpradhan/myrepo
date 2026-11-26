@@ -1,0 +1,53 @@
+[
+  {
+    "id": 1,
+    "name": "Acme Learning",
+    "slug": "acme",
+    "status": "active",
+    "logo": "AL",
+    "industry": "Technology",
+    "timezone": "America/New_York",
+    "email": "admin@acme.test",
+    "adminUserId": 2,
+    "createdAt": "2024-01-12",
+    "settings": {
+      "allowSelfEnrollment": true,
+      "certificatePrefix": "ACME",
+      "learningReminders": true
+    }
+  },
+  {
+    "id": 2,
+    "name": "Northwind Academy",
+    "slug": "northwind",
+    "status": "active",
+    "logo": "NA",
+    "industry": "Education",
+    "timezone": "Europe/London",
+    "email": "hello@northwind.test",
+    "adminUserId": 3,
+    "createdAt": "2024-04-03",
+    "settings": {
+      "allowSelfEnrollment": false,
+      "certificatePrefix": "NWA",
+      "learningReminders": true
+    }
+  },
+  {
+    "id": 3,
+    "name": "Helix Bio",
+    "slug": "helix",
+    "status": "inactive",
+    "logo": "HB",
+    "industry": "Healthcare",
+    "timezone": "America/Los_Angeles",
+    "email": "ops@helix.test",
+    "adminUserId": null,
+    "createdAt": "2025-02-18",
+    "settings": {
+      "allowSelfEnrollment": true,
+      "certificatePrefix": "HLX",
+      "learningReminders": false
+    }
+  }
+]

@@ -1,0 +1,93 @@
+[
+  {
+    "id": 1,
+    "companyId": 1,
+    "title": "React Checkpoint",
+    "courseId": 1,
+    "type": "quiz",
+    "status": "published",
+    "passingScore": 70,
+    "timeLimitMinutes": 15,
+    "attempts": 3,
+    "randomize": true,
+    "questions": [
+      {
+        "id": "q1",
+        "type": "single",
+        "prompt": "What hook is used for local component state?",
+        "options": ["useState", "useRouter", "useStore", "useClass"],
+        "answer": ["useState"]
+      },
+      {
+        "id": "q2",
+        "type": "multiple",
+        "prompt": "Which are valid JSX rules?",
+        "options": ["Must return one parent", "className instead of class", "Use var for props", "Keys help lists"],
+        "answer": ["Must return one parent", "className instead of class", "Keys help lists"]
+      },
+      {
+        "id": "q3",
+        "type": "boolean",
+        "prompt": "React components must start with a capital letter.",
+        "options": ["True", "False"],
+        "answer": ["True"]
+      },
+      {
+        "id": "q4",
+        "type": "short",
+        "prompt": "Name the library commonly used for global state in this app.",
+        "options": [],
+        "answer": ["Redux Toolkit"]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "companyId": 1,
+    "title": "Frontend Path Assessment",
+    "courseId": null,
+    "type": "assessment",
+    "status": "published",
+    "passingScore": 80,
+    "timeLimitMinutes": 40,
+    "attempts": 2,
+    "randomize": false,
+    "questions": [
+      {
+        "id": "q1",
+        "type": "single",
+        "prompt": "Which tool bundles this Vite app?",
+        "options": ["Webpack only", "Vite", "Ant", "Maven"],
+        "answer": ["Vite"]
+      },
+      {
+        "id": "q2",
+        "type": "long",
+        "prompt": "Describe how you would structure a new LMS page so a teammate can find the form, table, and service.",
+        "options": [],
+        "answer": []
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "companyId": 2,
+    "title": "Design Studio Check",
+    "courseId": 5,
+    "type": "quiz",
+    "status": "published",
+    "passingScore": 75,
+    "timeLimitMinutes": 20,
+    "attempts": 2,
+    "randomize": false,
+    "questions": [
+      {
+        "id": "q1",
+        "type": "boolean",
+        "prompt": "Learning outcomes should be written before activities.",
+        "options": ["True", "False"],
+        "answer": ["True"]
+      }
+    ]
+  }
+]

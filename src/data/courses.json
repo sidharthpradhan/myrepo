@@ -1,0 +1,174 @@
+[
+  {
+    "id": 1,
+    "companyId": 1,
+    "title": "React Fundamentals",
+    "description": "Build modern interfaces with components, hooks, and routing.",
+    "thumbnail": "⚛️",
+    "category": "Frontend",
+    "instructorId": 4,
+    "difficulty": "beginner",
+    "durationHours": 12,
+    "tags": ["react", "javascript", "ui"],
+    "skills": ["React", "JSX", "Hooks"],
+    "status": "published",
+    "publishDate": "2026-01-10",
+    "expiryDate": null,
+    "rating": 4.8,
+    "enrolledCount": 86,
+    "modules": [
+      {
+        "id": "m1",
+        "title": "Getting started",
+        "lessons": [
+          { "id": "l1", "title": "Why React", "type": "video", "duration": 12, "contentId": 1 },
+          { "id": "l2", "title": "Project setup", "type": "document", "duration": 8, "contentId": 2 }
+        ]
+      },
+      {
+        "id": "m2",
+        "title": "Components",
+        "lessons": [
+          { "id": "l3", "title": "JSX and props", "type": "video", "duration": 18, "contentId": 1 },
+          { "id": "l4", "title": "State and events", "type": "pdf", "duration": 15, "contentId": 3 },
+          { "id": "l5", "title": "Checkpoint quiz", "type": "quiz", "duration": 10, "assessmentId": 1 }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "companyId": 1,
+    "title": "Advanced React",
+    "description": "Patterns for performance, composition, and scalable frontends.",
+    "thumbnail": "🚀",
+    "category": "Frontend",
+    "instructorId": 4,
+    "difficulty": "advanced",
+    "durationHours": 16,
+    "tags": ["react", "performance"],
+    "skills": ["Memoization", "Context", "Architecture"],
+    "status": "published",
+    "publishDate": "2026-03-02",
+    "expiryDate": null,
+    "rating": 4.6,
+    "enrolledCount": 41,
+    "modules": [
+      {
+        "id": "m1",
+        "title": "Architecture",
+        "lessons": [
+          { "id": "l1", "title": "Feature folders", "type": "video", "duration": 20, "contentId": 1 },
+          { "id": "l2", "title": "State boundaries", "type": "document", "duration": 14, "contentId": 2 }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "companyId": 1,
+    "title": "JavaScript Essentials",
+    "description": "Language fundamentals used across the Skillomi stack.",
+    "thumbnail": "🟨",
+    "category": "Frontend",
+    "instructorId": 4,
+    "difficulty": "beginner",
+    "durationHours": 10,
+    "tags": ["javascript"],
+    "skills": ["ES6", "Async", "DOM"],
+    "status": "published",
+    "publishDate": "2025-11-20",
+    "expiryDate": null,
+    "rating": 4.7,
+    "enrolledCount": 120,
+    "modules": [
+      {
+        "id": "m1",
+        "title": "Core language",
+        "lessons": [
+          { "id": "l1", "title": "Types and functions", "type": "video", "duration": 22, "contentId": 1 },
+          { "id": "l2", "title": "Promises", "type": "audio", "duration": 11, "contentId": 5 }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "companyId": 1,
+    "title": "Inclusive Leadership",
+    "description": "Practical leadership habits for managers and team leads.",
+    "thumbnail": "🤝",
+    "category": "Leadership",
+    "instructorId": 2,
+    "difficulty": "intermediate",
+    "durationHours": 6,
+    "tags": ["leadership", "people"],
+    "skills": ["Feedback", "Coaching"],
+    "status": "draft",
+    "publishDate": null,
+    "expiryDate": null,
+    "rating": 0,
+    "enrolledCount": 0,
+    "modules": [
+      {
+        "id": "m1",
+        "title": "Foundations",
+        "lessons": [
+          { "id": "l1", "title": "Psychological safety", "type": "video", "duration": 16, "contentId": 1 }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "companyId": 2,
+    "title": "Instructional Design Studio",
+    "description": "Design learning experiences that stick.",
+    "thumbnail": "🎨",
+    "category": "L&D",
+    "instructorId": 3,
+    "difficulty": "intermediate",
+    "durationHours": 8,
+    "tags": ["design", "lxd"],
+    "skills": ["Storyboarding", "Assessment design"],
+    "status": "published",
+    "publishDate": "2026-05-12",
+    "expiryDate": null,
+    "rating": 4.9,
+    "enrolledCount": 28,
+    "modules": [
+      {
+        "id": "m1",
+        "title": "Design loop",
+        "lessons": [
+          { "id": "l1", "title": "Outcomes first", "type": "video", "duration": 14, "contentId": 6 }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "companyId": 1,
+    "title": "HTML & CSS Foundations",
+    "description": "Semantic markup and layout systems for the web.",
+    "thumbnail": "🧱",
+    "category": "Frontend",
+    "instructorId": 4,
+    "difficulty": "beginner",
+    "durationHours": 8,
+    "tags": ["html", "css"],
+    "skills": ["HTML", "CSS", "Flexbox"],
+    "status": "archived",
+    "publishDate": "2025-06-01",
+    "expiryDate": "2026-06-01",
+    "rating": 4.4,
+    "enrolledCount": 64,
+    "modules": [
+      {
+        "id": "m1",
+        "title": "Markup",
+        "lessons": [{ "id": "l1", "title": "Semantic HTML", "type": "pdf", "duration": 12, "contentId": 3 }]
+      }
+    ]
+  }
+]

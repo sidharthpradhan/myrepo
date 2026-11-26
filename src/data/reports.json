@@ -1,0 +1,57 @@
+[
+  {
+    "id": "user-progress",
+    "name": "User progress",
+    "description": "Enrollment and completion by learner."
+  },
+  {
+    "id": "course-completion",
+    "name": "Course completion",
+    "description": "Published course completion rates."
+  },
+  {
+    "id": "course-engagement",
+    "name": "Course engagement",
+    "description": "Enrollments, ratings, and activity."
+  },
+  {
+    "id": "assessment-performance",
+    "name": "Assessment performance",
+    "description": "Scores and pass rates."
+  },
+  {
+    "id": "department-performance",
+    "name": "Department performance",
+    "description": "Learning hours and completion by department."
+  },
+  {
+    "id": "team-performance",
+    "name": "Team performance",
+    "description": "Team completion and streaks."
+  },
+  {
+    "id": "learning-hours",
+    "name": "Learning hours",
+    "description": "Estimated hours consumed."
+  },
+  {
+    "id": "certificates",
+    "name": "Certificate reports",
+    "description": "Issued certificates by period."
+  },
+  {
+    "id": "path-completion",
+    "name": "Learning path completion",
+    "description": "Path assignment and progress."
+  },
+  {
+    "id": "user-activity",
+    "name": "User activity",
+    "description": "Recent learning events."
+  },
+  {
+    "id": "login-activity",
+    "name": "Login activity",
+    "description": "Last login timestamps."
+  }
+]

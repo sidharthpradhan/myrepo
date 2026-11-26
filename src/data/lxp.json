@@ -1,0 +1,26 @@
+{
+  "bookmarks": [
+    { "userId": 6, "courseId": 2 },
+    { "userId": 6, "courseId": 1 }
+  ],
+  "favorites": [{ "userId": 6, "courseId": 1 }],
+  "recentlyViewed": [
+    { "userId": 6, "courseId": 2, "viewedAt": "2026-09-17T21:00:00Z" },
+    { "userId": 6, "courseId": 1, "viewedAt": "2026-09-16T20:10:00Z" }
+  ],
+  "goals": [
+    { "id": 1, "userId": 6, "title": "Finish Advanced React", "progress": 40 },
+    { "id": 2, "userId": 6, "title": "Pass frontend path assessment", "progress": 10 }
+  ],
+  "badges": [
+    { "id": "fast-learner", "name": "Fast Learner", "description": "Completed a course in under two weeks." },
+    { "id": "streak-7", "name": "7-day streak", "description": "Learned seven days in a row." },
+    { "id": "path-complete", "name": "Path pioneer", "description": "Finished a learning path." },
+    { "id": "instructor", "name": "Instructor", "description": "Published learning content." },
+    { "id": "admin", "name": "Operator", "description": "Keeps the academy running." },
+    { "id": "mentor", "name": "Mentor", "description": "Supports other learners." },
+    { "id": "manager", "name": "Manager", "description": "Leads a department or team." },
+    { "id": "hr", "name": "People champion", "description": "Helps the organization grow." },
+    { "id": "founder", "name": "Founder", "description": "Platform super admin." }
+  ]
+}

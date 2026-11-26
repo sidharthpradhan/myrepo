@@ -1,0 +1,5 @@
+[
+  { "id": 1, "assessmentId": 1, "userId": 6, "score": 88, "passed": true, "attempt": 1, "takenAt": "2026-08-01T10:00:00Z" },
+  { "id": 2, "assessmentId": 1, "userId": 7, "score": 60, "passed": false, "attempt": 1, "takenAt": "2026-09-10T11:00:00Z" },
+  { "id": 3, "assessmentId": 3, "userId": 10, "score": 92, "passed": true, "attempt": 1, "takenAt": "2026-07-18T15:00:00Z" }
+]

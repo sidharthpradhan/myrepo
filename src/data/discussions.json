@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1,
+    "companyId": 1,
+    "courseId": 1,
+    "title": "Best way to practice hooks?",
+    "authorId": 6,
+    "createdAt": "2026-09-11T18:00:00Z",
+    "comments": [
+      {
+        "id": "c1",
+        "authorId": 4,
+        "body": "Rebuild a small dashboard using only useState and lift state when it is shared.",
+        "createdAt": "2026-09-11T18:20:00Z",
+        "replies": [
+          {
+            "id": "r1",
+            "authorId": 6,
+            "body": "That helped — thank you.",
+            "createdAt": "2026-09-11T19:00:00Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "companyId": 1,
+    "courseId": null,
+    "title": "Study group for the frontend path",
+    "authorId": 7,
+    "createdAt": "2026-09-09T13:00:00Z",
+    "comments": []
+  }
+]

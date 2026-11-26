@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "companyId": 1,
+    "title": "React intro video",
+    "type": "video",
+    "category": "Frontend",
+    "tags": ["react"],
+    "url": "https://example.com/media/react-intro.mp4",
+    "status": "active",
+    "duration": 12,
+    "createdAt": "2026-01-04"
+  },
+  {
+    "id": 2,
+    "companyId": 1,
+    "title": "Project setup guide",
+    "type": "document",
+    "category": "Frontend",
+    "tags": ["vite", "setup"],
+    "url": "https://example.com/docs/setup.docx",
+    "status": "active",
+    "duration": 8,
+    "createdAt": "2026-01-05"
+  },
+  {
+    "id": 3,
+    "companyId": 1,
+    "title": "State and events PDF",
+    "type": "pdf",
+    "category": "Frontend",
+    "tags": ["react"],
+    "url": "https://example.com/docs/state.pdf",
+    "status": "active",
+    "duration": 15,
+    "createdAt": "2026-01-08"
+  },
+  {
+    "id": 4,
+    "companyId": 1,
+    "title": "Leadership slides",
+    "type": "presentation",
+    "category": "Leadership",
+    "tags": ["leadership"],
+    "url": "https://example.com/slides/leadership.pptx",
+    "status": "active",
+    "duration": 20,
+    "createdAt": "2026-02-02"
+  },
+  {
+    "id": 5,
+    "companyId": 1,
+    "title": "Promises audio brief",
+    "type": "audio",
+    "category": "Frontend",
+    "tags": ["javascript"],
+    "url": "https://example.com/audio/promises.mp3",
+    "status": "active",
+    "duration": 11,
+    "createdAt": "2026-02-11"
+  },
+  {
+    "id": 6,
+    "companyId": 2,
+    "title": "Outcomes first video",
+    "type": "video",
+    "category": "L&D",
+    "tags": ["design"],
+    "url": "https://example.com/media/outcomes.mp4",
+    "status": "active",
+    "duration": 14,
+    "createdAt": "2026-05-01"
+  },
+  {
+    "id": 7,
+    "companyId": 1,
+    "title": "MDN JavaScript guide",
+    "type": "url",
+    "category": "Frontend",
+    "tags": ["javascript"],
+    "url": "https://developer.mozilla.org",
+    "status": "archived",
+    "duration": 0,
+    "createdAt": "2025-12-01"
+  }
+]

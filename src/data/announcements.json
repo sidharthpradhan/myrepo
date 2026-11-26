@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "companyId": 1,
+    "courseId": null,
+    "title": "Q3 learning sprint",
+    "body": "Complete at least one published course before September 30 to stay on the leaderboard.",
+    "authorId": 2,
+    "createdAt": "2026-09-01T09:00:00Z"
+  },
+  {
+    "id": 2,
+    "companyId": 1,
+    "courseId": 1,
+    "title": "New React module",
+    "body": "A checkpoint quiz was added to React Fundamentals.",
+    "authorId": 4,
+    "createdAt": "2026-09-08T12:00:00Z"
+  },
+  {
+    "id": 3,
+    "companyId": 2,
+    "courseId": null,
+    "title": "Welcome to Northwind Academy",
+    "body": "Studio hours are Tuesday and Thursday afternoons.",
+    "authorId": 3,
+    "createdAt": "2026-05-20T10:00:00Z"
+  }
+]

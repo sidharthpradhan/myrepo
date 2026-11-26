@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "companyId": 1,
+    "userId": 6,
+    "type": "course_assigned",
+    "title": "Course assigned",
+    "message": "Advanced React was assigned to you.",
+    "read": false,
+    "createdAt": "2026-09-17T10:00:00Z"
+  },
+  {
+    "id": 2,
+    "companyId": 1,
+    "userId": 6,
+    "type": "assessment_available",
+    "title": "Assessment available",
+    "message": "Frontend Path Assessment is ready.",
+    "read": false,
+    "createdAt": "2026-09-16T09:00:00Z"
+  },
+  {
+    "id": 3,
+    "companyId": 1,
+    "userId": 2,
+    "type": "course_published",
+    "title": "Course published",
+    "message": "Inclusive Leadership is still in draft.",
+    "read": true,
+    "createdAt": "2026-09-12T14:20:00Z"
+  },
+  {
+    "id": 4,
+    "companyId": null,
+    "userId": 1,
+    "type": "system",
+    "title": "System notice",
+    "message": "Helix Bio remains inactive until an admin is assigned.",
+    "read": false,
+    "createdAt": "2026-09-10T08:00:00Z"
+  },
+  {
+    "id": 5,
+    "companyId": 1,
+    "userId": 6,
+    "type": "certificate_issued",
+    "title": "Certificate issued",
+    "message": "Certificate ACME-2026-1044 is ready to download.",
+    "read": true,
+    "createdAt": "2026-08-01T12:00:00Z"
+  },
+  {
+    "id": 6,
+    "companyId": 1,
+    "userId": 6,
+    "type": "reminder",
+    "title": "Learning reminder",
+    "message": "You are 40% through Advanced React. Keep the streak going.",
+    "read": false,
+    "createdAt": "2026-09-18T06:00:00Z"
+  }
+]

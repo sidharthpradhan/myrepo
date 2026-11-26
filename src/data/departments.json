@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "companyId": 1,
+    "name": "Engineering",
+    "code": "ENG",
+    "managerId": 5,
+    "status": "active",
+    "description": "Product engineering and platform teams."
+  },
+  {
+    "id": 2,
+    "companyId": 1,
+    "name": "Learning Design",
+    "code": "LXD",
+    "managerId": 4,
+    "status": "active",
+    "description": "Course design, instructors, and content."
+  },
+  {
+    "id": 3,
+    "companyId": 1,
+    "name": "People",
+    "code": "PPL",
+    "managerId": 8,
+    "status": "active",
+    "description": "HR, talent, and internal communications."
+  },
+  {
+    "id": 4,
+    "companyId": 1,
+    "name": "Operations",
+    "code": "OPS",
+    "managerId": 2,
+    "status": "inactive",
+    "description": "Business operations (paused)."
+  },
+  {
+    "id": 5,
+    "companyId": 2,
+    "name": "Academy",
+    "code": "ACD",
+    "managerId": 3,
+    "status": "active",
+    "description": "Northwind teaching staff and learners."
+  }
+]

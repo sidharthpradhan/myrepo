@@ -1,0 +1,8 @@
+[
+  { "id": 1, "companyId": 1, "userId": 6, "text": "Completed JavaScript Essentials", "createdAt": "2026-06-12T16:00:00Z" },
+  { "id": 2, "companyId": 1, "userId": 6, "text": "Reached a 21-day learning streak", "createdAt": "2026-09-17T09:00:00Z" },
+  { "id": 3, "companyId": 1, "userId": 2, "text": "Published React Fundamentals update", "createdAt": "2026-09-14T11:20:00Z" },
+  { "id": 4, "companyId": 1, "userId": 8, "text": "Invited Liam Wright to Acme Learning", "createdAt": "2026-09-13T15:00:00Z" },
+  { "id": 5, "companyId": 2, "userId": 10, "text": "Earned Instructional Design certificate", "createdAt": "2026-07-19T17:40:00Z" },
+  { "id": 6, "companyId": null, "userId": 1, "text": "Deactivated Helix Bio pending admin assignment", "createdAt": "2026-09-10T08:05:00Z" }
+]
