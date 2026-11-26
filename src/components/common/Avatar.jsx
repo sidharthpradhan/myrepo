@@ -11,3 +11,7 @@ export default function Avatar({ name, src, size = "md" }) {
     </span>
   );
 }
+
+
+
+// added something
